@@ -1,0 +1,15 @@
+img {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.container {
+  margin: 0px 0px 50px 10px;
+  display: flex;
+  align-items: center;
+}
+.text {
+  text-align: center;
+}

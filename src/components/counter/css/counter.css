@@ -1,0 +1,14 @@
+body {
+  background-color: aquamarine;
+}
+.container {
+  height: 300px;
+  width: 200px;
+  margin-top: 50px;
+  margin-left: 50px;
+  background-color: antiquewhite;
+  text-align: center;
+}
+button {
+  margin-top: 50px;
+}

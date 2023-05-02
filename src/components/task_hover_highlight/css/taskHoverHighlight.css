@@ -1,0 +1,11 @@
+/* div {
+  background-color: red;
+  transition: background-color;
+}
+
+div:hover {
+  background-color: green;
+} */
+div.highlighted {
+  background-color: aqua;
+}

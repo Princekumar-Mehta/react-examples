@@ -1,0 +1,21 @@
+task1
+   dispatch({
+                  type:"changed_selection",
+                  contactId:contact.id
+                })
+
+task2
+  dispatch({
+                  type:"edited_message",
+                  message:e.target.value
+                })
+
+task 3
+ alert(message);
+         dispatch({
+            type: 'edited_message',
+            message: "",
+          });
+
+          Preserving and Resetting State
+          Extracting State Logic into a Reducer

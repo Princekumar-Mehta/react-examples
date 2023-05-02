@@ -1,0 +1,11 @@
+div {
+  width: 200px;
+  overflow: hidden;
+}
+ul,
+li {
+  white-space: nowrap;
+}
+li {
+  display: inline;
+}
